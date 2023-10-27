@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 align="center"> Quizz 2023 - OpenTriviaDB</h1>
+<h3 align="center"> Projeto realizado para estudos no Next </h3>
 
-First, run the development server:
+# Sumário
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- [Descrição do projeto](#descrição-do-projeto)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Acesso ao projeto](#acesso-ao-projeto)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Learn More
+# Descrição do Projeto
+## Foi desenvolvido um Quizz que disponibiliza 10 perguntas para serem respondidas a partir de uma API do OpenTriviaDB. 
 
-To learn more about Next.js, take a look at the following resources:
+<br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**O site está completamente responsivo, tornando a experiência do usuário ainda mais versátil ao poder utilizar quaisquer telas (computadores, laptops, tablets ou celulares).**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Ferramentas utilizadas
 
-## Deploy on Vercel
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<hr>
+
+
+# Acesso ao projeto
+
+### Você pode acessar a página por aqui -> <a target="_blank" href="https://quizz-2023.vercel.app">Acessar</a>
+
+
+**O projeto está hospedado na Vercel, plataforma primariamente voltada para sites estáticos e frameworks front-end. Também é a atual responsável pelo Next, que é um <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">framework open source React</a>.**
+
+
