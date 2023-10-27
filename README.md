@@ -1,5 +1,5 @@
 
-<h1 align="center"> Quizz 2023 - OpenTriviaDB</h1>
+<h1 align="center"> Quizz Geral - OpenTriviaDB</h1>
 <h3 align="center"> Projeto realizado para estudos no Next </h3>
 
 # Sumário
