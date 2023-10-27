@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import { Quicksand } from 'next/font/google';
-
 import './globals.css';
 
 const quicksand = Quicksand({
